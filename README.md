@@ -2,7 +2,7 @@
 
 - LinkedIn: https://www.linkedin.com/in/zhansongli/
 - Resume: https://hvariant.github.io/resume.pdf
-- Email: lizhansong@hvariant.com
+- Email: lizhansong àt hvariant dôt com
 
 <!--
 **hvariant/hvariant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
